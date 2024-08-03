@@ -24,7 +24,7 @@ const Hero = () => {
             <motion.p variants={container(1)} initial="hidden" animate="visible" className="my-2 max-w-xl py-6 font-light tracking-tighter">
                 {HERO_CONTENT}
             </motion.p>
-            <motion.a href="" variants={container(1)} initial="hidden" animate="visible"><button className="mr-2 border rounded bg-neutral-950 px-2 py-1 text-sm font-medium text-purple-900"><div className="m-100 flex items-center justify-center gap-0.5 text-2xl"><RiNewspaperLine />Resume </div></button></motion.a>
+            <motion.a href="https://drive.google.com/file/d/1zakqKNWWLJS4PPpH1Qe6WNeot-NLysAu/view?usp=sharing" variants={container(1)} initial="hidden" animate="visible"><button className="mr-2 border rounded bg-neutral-950 px-2 py-1 text-sm font-medium text-purple-900"><div className="m-100 flex items-center justify-center gap-0.5 text-2xl"><RiNewspaperLine />Resume </div></button></motion.a>
         </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-10">
