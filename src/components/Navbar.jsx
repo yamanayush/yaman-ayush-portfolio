@@ -3,6 +3,11 @@ import {FaLinkedin} from "react-icons/fa";
 import {FaGithub} from "react-icons/fa";
 import {FaInstagram} from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
+<<<<<<< HEAD
+=======
+import leetcodeLogo from "../assets/Leetcode.png";
+
+>>>>>>> e3f68fe (update on portfolio from 2024-2025)
 
 
 
@@ -18,6 +23,10 @@ const Navbar = () => {
    <a href="https://github.com/yamanayush"><FaGithub /></a>
    <a href="https://www.instagram.com/ur_yaman/"><FaInstagram /></a>
    <a href="https://x.com/yaman_ayush"><FaSquareXTwitter /></a>
+<<<<<<< HEAD
+=======
+   <a href="https://leetcode.com/u/yaman27/"><img className="w-8 h-6" src={leetcodeLogo} alt="LeetCode" /></a>
+>>>>>>> e3f68fe (update on portfolio from 2024-2025)
    </div>
 
   </nav>
